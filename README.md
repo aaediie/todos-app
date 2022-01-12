@@ -1,3 +1,7 @@
+## About Project 
+This is a simple react based todo-app . which can perform CRUD operations. i.e. Create , Read , Update , Delete.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
